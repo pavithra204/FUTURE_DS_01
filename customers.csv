@@ -1,0 +1,135 @@
+customer_id,customer_name,segment,region,state,signup_date
+CUST-0001,Varun Kumar,Home Office,West,Maharashtra,2023-12-15
+CUST-0002,Rahul Shah,Corporate,South,Karnataka,2024-01-29
+CUST-0003,Om Singh,Consumer,South,Andhra Pradesh,2024-04-08
+CUST-0004,Meera Joshi,Consumer,East,Odisha,2023-04-24
+CUST-0005,Pranav Verma,Corporate,East,West Bengal,2023-11-12
+CUST-0006,Zara Patel,Home Office,West,Gujarat,2024-03-22
+CUST-0007,Isha Reddy,Consumer,West,Gujarat,2023-01-22
+CUST-0008,Isha Bose,Corporate,South,Telangana,2024-04-28
+CUST-0009,Riya Patel,Consumer,North,Uttar Pradesh,2023-04-05
+CUST-0010,Yash Singh,Consumer,South,Tamil Nadu,2023-12-01
+CUST-0011,Rohan Joshi,Corporate,North,Delhi,2023-06-06
+CUST-0012,Neha Joshi,Consumer,West,Rajasthan,2023-05-25
+CUST-0013,Varun Iyer,Consumer,West,Rajasthan,2023-01-04
+CUST-0014,Manish Bose,Corporate,West,Maharashtra,2024-01-26
+CUST-0015,Rahul Menon,Consumer,North,Delhi,2023-02-27
+CUST-0016,Varun Singh,Corporate,West,Maharashtra,2024-01-18
+CUST-0017,Sanjay Menon,Corporate,East,Bihar,2023-06-01
+CUST-0018,Arjun Kumar,Consumer,South,Telangana,2023-07-24
+CUST-0019,Vivaan Nair,Consumer,West,Rajasthan,2023-05-21
+CUST-0020,Neha Bose,Corporate,North,Haryana,2024-01-27
+CUST-0021,Meera Kumar,Corporate,West,Maharashtra,2023-03-25
+CUST-0022,Ishaan Verma,Corporate,South,Karnataka,2023-08-19
+CUST-0023,Riya Das,Consumer,South,Tamil Nadu,2023-12-15
+CUST-0024,Rohan Patel,Consumer,North,Haryana,2023-11-12
+CUST-0025,Sara Verma,Consumer,North,Punjab,2024-04-25
+CUST-0026,Pooja Bose,Consumer,Central,Chhattisgarh,2024-04-29
+CUST-0027,Diya Pillai,Consumer,West,Rajasthan,2023-05-17
+CUST-0028,Neha Bhatt,Consumer,South,Karnataka,2023-04-12
+CUST-0029,Nikhil Menon,Consumer,North,Punjab,2024-03-04
+CUST-0030,Pooja Pillai,Consumer,West,Maharashtra,2023-11-10
+CUST-0031,Aditya Chatterjee,Consumer,East,Bihar,2023-07-27
+CUST-0032,Priya Singh,Consumer,South,Karnataka,2023-03-14
+CUST-0033,Priya Menon,Consumer,South,Telangana,2024-04-07
+CUST-0034,Neha Rao,Corporate,East,West Bengal,2023-01-12
+CUST-0035,Meera Singh,Corporate,Central,Madhya Pradesh,2023-02-11
+CUST-0036,Nikhil Gupta,Consumer,North,Haryana,2023-09-18
+CUST-0037,Sneha Sharma,Corporate,North,Delhi,2024-03-24
+CUST-0038,Kavya Menon,Consumer,South,Karnataka,2023-12-03
+CUST-0039,Diya Bose,Corporate,North,Uttar Pradesh,2024-01-20
+CUST-0040,Uma Bhatt,Consumer,South,Telangana,2023-01-19
+CUST-0041,Sanjay Patel,Corporate,East,Odisha,2024-02-09
+CUST-0042,Ananya Shah,Consumer,North,Haryana,2023-09-15
+CUST-0043,Tanvi Bhatt,Consumer,South,Tamil Nadu,2023-01-23
+CUST-0044,Tanvi Shah,Home Office,North,Delhi,2024-01-10
+CUST-0045,Ananya Kapoor,Consumer,West,Gujarat,2023-06-07
+CUST-0046,Arjun Bose,Consumer,West,Rajasthan,2023-02-17
+CUST-0047,Karthik Gupta,Home Office,West,Rajasthan,2023-05-01
+CUST-0048,Aditya Joshi,Consumer,South,Karnataka,2023-03-31
+CUST-0049,Zara Kapoor,Consumer,East,West Bengal,2023-06-05
+CUST-0050,Kavya Shah,Consumer,West,Gujarat,2023-03-13
+CUST-0051,Priya Nair,Consumer,South,Andhra Pradesh,2023-12-05
+CUST-0052,Sneha Das,Corporate,South,Karnataka,2023-10-18
+CUST-0053,Om Joshi,Corporate,South,Andhra Pradesh,2024-01-05
+CUST-0054,Neha Iyer,Home Office,South,Andhra Pradesh,2023-07-18
+CUST-0055,Ishaan Singh,Corporate,North,Punjab,2024-04-22
+CUST-0056,Sara Bhatt,Consumer,North,Haryana,2023-10-05
+CUST-0057,Om Iyer,Consumer,East,Bihar,2023-07-29
+CUST-0058,Rohan Menon,Home Office,Central,Chhattisgarh,2024-02-07
+CUST-0059,Varun Mehta,Consumer,North,Haryana,2023-02-24
+CUST-0060,Diya Mehta,Consumer,West,Gujarat,2023-09-23
+CUST-0061,Riya Kapoor,Corporate,East,West Bengal,2023-07-26
+CUST-0062,Riya Kumar,Corporate,North,Uttar Pradesh,2024-03-09
+CUST-0063,Rahul Nair,Consumer,North,Uttar Pradesh,2024-01-09
+CUST-0064,Sara Iyer,Consumer,West,Gujarat,2023-10-25
+CUST-0065,Priya Joshi,Consumer,South,Kerala,2023-03-13
+CUST-0066,Tara Reddy,Consumer,Central,Chhattisgarh,2023-03-18
+CUST-0067,Sanjay Sharma,Consumer,South,Andhra Pradesh,2023-03-29
+CUST-0068,Meera Menon,Corporate,South,Kerala,2023-07-16
+CUST-0069,Tanvi Das,Home Office,North,Uttar Pradesh,2024-03-01
+CUST-0070,Pooja Reddy,Consumer,South,Telangana,2023-05-05
+CUST-0071,Sara Kumar,Consumer,East,West Bengal,2023-07-06
+CUST-0072,Pranav Iyer,Corporate,East,West Bengal,2023-01-26
+CUST-0073,Yash Verma,Corporate,Central,Chhattisgarh,2024-03-27
+CUST-0074,Kavya Joshi,Corporate,Central,Chhattisgarh,2023-11-18
+CUST-0075,Isha Iyer,Consumer,West,Maharashtra,2023-09-15
+CUST-0076,Vivaan Iyer,Consumer,South,Andhra Pradesh,2023-07-28
+CUST-0077,Arjun Patel,Consumer,South,Karnataka,2023-06-13
+CUST-0078,Priya Bose,Consumer,North,Uttar Pradesh,2024-04-19
+CUST-0079,Aditya Gupta,Corporate,East,West Bengal,2023-04-12
+CUST-0080,Rahul Kapoor,Consumer,West,Rajasthan,2023-11-04
+CUST-0081,Uma Pillai,Consumer,South,Tamil Nadu,2024-04-12
+CUST-0082,Sara Shah,Corporate,South,Tamil Nadu,2023-10-24
+CUST-0083,Tanvi Mehta,Home Office,West,Maharashtra,2023-05-07
+CUST-0084,Vivaan Verma,Corporate,East,West Bengal,2023-03-27
+CUST-0085,Aarav Menon,Consumer,East,Bihar,2023-09-19
+CUST-0086,Riya Mehta,Consumer,West,Maharashtra,2023-10-27
+CUST-0087,Zara Kumar,Corporate,West,Maharashtra,2023-12-02
+CUST-0088,Isha Kapoor,Corporate,North,Haryana,2023-05-16
+CUST-0089,Rahul Rao,Consumer,North,Uttar Pradesh,2023-03-15
+CUST-0090,Sanjay Kumar,Consumer,Central,Madhya Pradesh,2023-12-31
+CUST-0091,Varun Shah,Corporate,North,Uttar Pradesh,2024-04-20
+CUST-0092,Sneha Kapoor,Corporate,South,Andhra Pradesh,2023-03-02
+CUST-0093,Aarav Bose,Consumer,East,West Bengal,2023-08-16
+CUST-0094,Meera Gupta,Consumer,West,Maharashtra,2023-08-10
+CUST-0095,Rahul Bhatt,Corporate,North,Haryana,2023-02-25
+CUST-0096,Vivaan Kapoor,Consumer,Central,Chhattisgarh,2024-02-23
+CUST-0097,Yash Kapoor,Consumer,South,Telangana,2023-05-01
+CUST-0098,Om Mehta,Consumer,South,Andhra Pradesh,2024-03-31
+CUST-0099,Riya Sharma,Consumer,West,Maharashtra,2023-01-26
+CUST-0100,Tanvi Joshi,Consumer,East,West Bengal,2024-02-29
+CUST-0101,Yash Joshi,Home Office,South,Andhra Pradesh,2024-01-22
+CUST-0102,Nikhil Joshi,Consumer,West,Gujarat,2023-04-11
+CUST-0103,Yash Das,Corporate,South,Tamil Nadu,2023-11-12
+CUST-0104,Neha Reddy,Corporate,West,Maharashtra,2023-04-07
+CUST-0105,Aditya Pillai,Home Office,South,Karnataka,2023-11-02
+CUST-0106,Meera Reddy,Consumer,West,Rajasthan,2023-04-02
+CUST-0107,Tara Singh,Corporate,Central,Madhya Pradesh,2023-11-15
+CUST-0108,Sanjay Bose,Corporate,East,Odisha,2024-04-15
+CUST-0109,Neha Das,Consumer,South,Kerala,2023-08-26
+CUST-0110,Tanvi Iyer,Consumer,South,Andhra Pradesh,2023-06-02
+CUST-0111,Manish Chatterjee,Corporate,North,Uttar Pradesh,2023-07-25
+CUST-0112,Om Nair,Corporate,North,Haryana,2023-06-08
+CUST-0113,Sneha Kumar,Consumer,South,Andhra Pradesh,2023-04-23
+CUST-0114,Arjun Menon,Corporate,East,Odisha,2023-11-20
+CUST-0115,Uma Rao,Corporate,West,Gujarat,2023-10-02
+CUST-0116,Rahul Chatterjee,Consumer,North,Uttar Pradesh,2023-09-14
+CUST-0117,Sanjay Kapoor,Home Office,West,Rajasthan,2023-09-09
+CUST-0118,Sneha Mehta,Consumer,East,Odisha,2024-02-23
+CUST-0119,Vivaan Pillai,Consumer,North,Punjab,2024-02-18
+CUST-0120,Meera Patel,Consumer,West,Maharashtra,2023-10-28
+CUST-0121,Rahul Patel,Home Office,South,Andhra Pradesh,2024-05-12
+CUST-0122,Meera Rao,Corporate,West,Maharashtra,2023-12-19
+CUST-0123,Riya Chatterjee,Consumer,North,Haryana,2023-04-15
+CUST-0124,Sara Menon,Corporate,Central,Chhattisgarh,2024-05-10
+CUST-0125,Rahul Kumar,Consumer,South,Telangana,2023-02-10
+CUST-0126,Vivaan Kumar,Consumer,West,Rajasthan,2023-03-17
+CUST-0127,Diya Bhatt,Consumer,South,Karnataka,2023-04-27
+CUST-0128,Sneha Nair,Corporate,South,Kerala,2023-11-15
+CUST-0129,Meera Bose,Corporate,East,Odisha,2023-01-30
+CUST-0130,Isha Das,Consumer,North,Uttar Pradesh,2024-02-27
+CUST-0131,Rahul Mehta,Home Office,North,Punjab,2023-09-10
+CUST-0132,Om Das,Consumer,North,Delhi,2023-07-19
+CUST-0133,Uma Chatterjee,Consumer,Central,Madhya Pradesh,2023-06-19
+CUST-0134,Diya Sharma,Home Office,South,Karnataka,2023-08-13

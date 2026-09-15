@@ -1,0 +1,41 @@
+product_id,product_name,category,sub_category,unit_cost,unit_price
+PROD-0001,Ergo Mesh Chair,Furniture,Chairs,1951.82,3108.56
+PROD-0002,Executive Leather Chair,Furniture,Chairs,3621.05,5700.66
+PROD-0003,Folding Chair,Furniture,Chairs,3855.79,6176.6
+PROD-0004,Task Chair,Furniture,Chairs,3477.86,4525.9
+PROD-0005,Round Meeting Table,Furniture,Tables,2951.06,4273.25
+PROD-0006,Adjustable Desk,Furniture,Tables,2248.17,3471.95
+PROD-0007,Glass Coffee Table,Furniture,Tables,3881.68,6571.91
+PROD-0008,Study Table,Furniture,Tables,1209.85,1911.8
+PROD-0009,5-Shelf Bookcase,Furniture,Bookcases,3019.94,4245.79
+PROD-0010,Corner Bookcase,Furniture,Bookcases,565.57,717.38
+PROD-0011,Wide Bookcase,Furniture,Bookcases,3127.19,4598.1
+PROD-0012,Desk Lamp,Furniture,Furnishings,3943.32,5754.24
+PROD-0013,Wall Clock,Furniture,Furnishings,3913.43,5616.6
+PROD-0014,Floor Mat,Furniture,Furnishings,3191.23,4110.85
+PROD-0015,3-Ring Binder,Office Supplies,Binders,2257.41,3636.52
+PROD-0016,View Binder,Office Supplies,Binders,3704.83,6002.43
+PROD-0017,Heavy-Duty Binder,Office Supplies,Binders,224.93,318.88
+PROD-0018,A4 Copy Paper,Office Supplies,Paper,270.9,351.94
+PROD-0019,Sticky Notes,Office Supplies,Paper,2727.2,4284.34
+PROD-0020,Notebook Pack,Office Supplies,Paper,3112.99,5103.6
+PROD-0021,File Cabinet,Office Supplies,Storage,2978.57,4796.67
+PROD-0022,Storage Box,Office Supplies,Storage,271.94,368.62
+PROD-0023,Drawer Organizer,Office Supplies,Storage,2517.84,4119.58
+PROD-0024,Marker Set,Office Supplies,Art,97.64,144.66
+PROD-0025,Sketch Pad,Office Supplies,Art,2734.97,3455.15
+PROD-0026,Highlighter Pack,Office Supplies,Art,1653.31,2732.99
+PROD-0027,Address Labels,Office Supplies,Labels,2712.72,3681.02
+PROD-0028,Shipping Labels,Office Supplies,Labels,3422.9,4814.7
+PROD-0029,Smartphone X200,Technology,Phones,12822.17,17752.61
+PROD-0030,Landline Phone,Technology,Phones,8916.26,12737.97
+PROD-0031,Headset Pro,Technology,Phones,4231.15,6976.96
+PROD-0032,Wireless Mouse,Technology,Accessories,2935.77,3781.75
+PROD-0033,Keyboard,Technology,Accessories,5227.62,8222.71
+PROD-0034,USB Hub,Technology,Accessories,12140.36,20631.75
+PROD-0035,Laptop Stand,Technology,Accessories,4550.98,6524.16
+PROD-0036,Laser Printer,Technology,Machines,2181.8,3291.66
+PROD-0037,Label Maker,Technology,Machines,14964.06,23424.69
+PROD-0038,Shredder,Technology,Machines,8988.91,12823.28
+PROD-0039,Desktop Copier,Technology,Copiers,13742.19,20250.66
+PROD-0040,Office Copier XL,Technology,Copiers,2145.35,3034.42
