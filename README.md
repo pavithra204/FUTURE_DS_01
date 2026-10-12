@@ -1,4 +1,4 @@
-# Retail Sales Analytics — SQL + Power BI Project
+# Business Sales Performance Analytics — SQL + Power BI Project
 
 End-to-end data analytics project on a synthetic retail dataset (900 orders,
 133 customers, 40 products, 2 years of data). Built to demonstrate SQL
